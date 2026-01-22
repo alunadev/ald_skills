@@ -23,6 +23,7 @@ ald-skills/
 │   ├── skill-creator/
 │   ├── ask-questions-if-underspecified/
 │   └── varlock-env-management/
+
 ├── testing/
 │   ├── test-driven-development/
 │   ├── systematic-debugging/
@@ -50,6 +51,7 @@ ald-skills/
 
 - [**ask-questions-if-underspecified**](https://github.com/trailofbits/skills/blob/main/plugins/ask-questions-if-underspecified)- Prompt for clarification on ambiguous requirements
 - [varlock-claude-skill](https://github.com/wrsmith108/varlock-claude-skill) - Secure environment variable management ensuring secrets never appear in Claude sessions, terminals, logs, or git commits.
+- [error handling patterns](https://github.com/wshobson/agents/blob/main/plugins/developer-essentials/skills/error-handling-patterns/SKILL.md) - Build resilient applications with robust error handling strategies that gracefully handle failures and provide excellent debugging experiences.
 
 ## 🛡 Testing
 
