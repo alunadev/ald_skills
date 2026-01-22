@@ -8,6 +8,7 @@
 - [Awesome Claude Skills by VoltAgent](https://github.com/VoltAgent/awesome-claude-skills)
 - [Awesome Claude Skills by BehiSecc](https://github.com/BehiSecc/awesome-claude-skills/)
 - [Agent Skills Marketplace](https://skillsmp.com)
+- [superpowers](https://github.com/obra/superpowers)
 
 ## 📁 Repository Structure
 ```bash
