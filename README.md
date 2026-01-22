@@ -10,6 +10,7 @@
 - [Agent Skills Marketplace](https://skillsmp.com)
 
 ## 📁 Repository Structure
+```bash
 ald-skills/
 ├── README.md
 ├── design/
@@ -35,7 +36,7 @@ ald-skills/
     ├── expo-app-design/
     ├── expo-deployment/
     └── upgrading-expo/
-
+```
 
 ## 🎨 Design
 
